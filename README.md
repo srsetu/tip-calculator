@@ -1,4 +1,4 @@
-#Tip Calculator App with Vanilla JavaScript
+# Tip Calculator App with Vanilla JavaScript
 
 ![Screenshot](https://github.com/srsetu/tip-calculator/blob/master/finished/screenshot.png "Project Screenshot")
 
